@@ -50,6 +50,36 @@ sup {
   border-bottom: 1px solid #ccc;
 }
 
+.no-list {
+  list-style: none;
+}
+.btn-qty {
+  width: 31px;
+  height: 31px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+.count-number {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+.btn-end-shop {
+  width: 200px;
+}
+.hidden { display:none; }
+.empty-content {
+  height: 180px;
+    background: #e9e9e9;
+    border-radius: 5px;
+}
+.min-heigth-content {
+  min-height: 180px;
+}
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;

@@ -20,3 +20,17 @@ Se agrega los siguientes componentes:
 Se agrega los siguientes componentes:
 - Login: Pagina de acceso
 - Register Pagina de registro
+
+## Hito 3 - Version: 0.0.2
+Se comentan lo siguientes componentes:
+- Login: Pagina de acceso
+- Register Pagina de registro
+
+Se adiciona lo siguiente:
+- Se integra react-bootstrap
+- Se agrega función a botón "ver más" (Utilizando modal de bootstrap)
+- Se cambia etiquetas de ingredientes span por li
+- Se actualiza CardPizza.jsx
+- Se agrega Cart.jsx
+- Se realiza llamado de arreglos desde pizza.js
+- Se agrega función sumar o quitar cantidad de producto
